@@ -1,0 +1,95 @@
+body {  
+
+  
+
+    font-family: Arial;  
+
+  
+
+    padding: 20px;  
+
+  
+
+    background: #f4f4f4;  
+
+  
+
+}  
+
+  
+
+   
+
+  
+
+h1 {  
+
+  
+
+    color: #1c4c96;  
+
+  
+
+    text-align: center;  
+
+  
+
+}  
+
+  
+
+   
+
+  
+
+ul {  
+
+  
+
+    line-height: 1.8;  
+
+  
+
+}  
+
+  
+
+   
+
+  
+
+button {  
+
+  
+
+    padding: 10px;  
+
+  
+
+    background: black;  
+
+  
+
+    color: white;  
+
+  
+
+    border-radius: 5px;  
+
+  
+
+}  
+
+.container {  
+
+  
+
+    display: flex;  
+
+  
+
+    gap: 20px;  
+
+  
+
+} 
