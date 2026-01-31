@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5",
+    "react-router-dom": "^7.13.0"
+  },
+  "name": "full-stack-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilharsh1910-cyber/day1-html-css-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/patilharsh1910-cyber/day1-html-css-js/issues"
+  },
+  "homepage": "https://github.com/patilharsh1910-cyber/day1-html-css-js#readme"
+}
